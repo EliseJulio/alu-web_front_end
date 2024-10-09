@@ -1,1 +1,1 @@
-Responsive Enteprise Design
+Responsive Design
