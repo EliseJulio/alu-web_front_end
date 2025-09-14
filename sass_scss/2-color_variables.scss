@@ -1,0 +1,15 @@
+$primary-text-color: #3D3D3D;
+$bg-color: #6D6D6D;
+
+body {
+  color: $primary-text-color;
+  background-color: $bg-color;
+}
+
+h2 {
+    background-color: $bg-color;
+}
+
+p {
+  color: $primary-text-color;
+}
