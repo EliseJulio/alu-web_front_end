@@ -1,1 +1,1 @@
-Responsive Design
+Responsive Web design
